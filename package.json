@@ -13,10 +13,10 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "@milkdown/crepe": "^7.8.0",
-    "@milkdown/kit": "^7.8.0",
-    "@milkdown/plugin-collab": "^7.8.0",
-    "@milkdown/vue": "^7.8.0",
+    "@milkdown/crepe": "^7.9.0",
+    "@milkdown/kit": "^7.9.0",
+    "@milkdown/plugin-collab": "^7.9.0",
+    "@milkdown/vue": "^7.9.0",
     "pinia": "^3.0.1",
     "vue": "^3.5.13",
     "vue-router": "^4.5.0",
